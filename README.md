@@ -19,6 +19,9 @@ The project uses the [MovieLens dataset](https://grouplens.org/datasets/movielen
 - Python 3.8 or higher
 - pip
 
+[My complete folder](https://drive.google.com/file/d/1CnISZdZpBIczI_FI65ktje5Ss2nYfcjK/view?usp=drive_link)
+
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/DArmandoSalinas/movie-recommendation-system.git
